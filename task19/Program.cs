@@ -18,13 +18,11 @@ void CheckPalindrom(int r)
 {
 int n, i;
 int sum = 0;
-//Console.Write(+r);
 for ( i = r; i > 0 ; i = i/10 )
 {
     n = i%10;
     sum = sum*10 + n;
 }
-Console.Write(+sum);
 if (r == sum)
 {
     Console.Write("Yes");
