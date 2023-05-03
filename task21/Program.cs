@@ -25,4 +25,4 @@ int[] pointA = inputData("Введите координаты точки", "A");
 int[] pointB = inputData("Введите координаты точки", "B");
 
 double len = FindLength(pointA, pointB);
-Console.Write(len);
+Console.Write("{0:0.00}", len);
