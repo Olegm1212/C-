@@ -17,7 +17,7 @@ double[] GetArray(int size)
 void DifferenceMaxMin(double[] arr)
 {
     int i = 0;
-    double max = arr[i], min = arr[i+1], dif=0;
+    double max = arr[i], min = arr[i+1];
     foreach(double el in arr)
     {
 
