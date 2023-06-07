@@ -1,0 +1,15 @@
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\task58.csproj.AssemblyReference.cache
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\task58.AssemblyInfoInputs.cache
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\task58.AssemblyInfo.cs
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\task58.csproj.CoreCompileInputs.cache
+C:\Users\Mechetin\Documents\GB\C-\task58\bin\Debug\net7.0\task58.exe
+C:\Users\Mechetin\Documents\GB\C-\task58\bin\Debug\net7.0\task58.deps.json
+C:\Users\Mechetin\Documents\GB\C-\task58\bin\Debug\net7.0\task58.runtimeconfig.json
+C:\Users\Mechetin\Documents\GB\C-\task58\bin\Debug\net7.0\task58.dll
+C:\Users\Mechetin\Documents\GB\C-\task58\bin\Debug\net7.0\task58.pdb
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\task58.dll
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\refint\task58.dll
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\task58.pdb
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\task58.genruntimeconfig.cache
+C:\Users\Mechetin\Documents\GB\C-\task58\obj\Debug\net7.0\ref\task58.dll
