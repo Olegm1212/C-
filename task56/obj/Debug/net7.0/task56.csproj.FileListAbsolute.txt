@@ -1,0 +1,15 @@
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\task56.csproj.AssemblyReference.cache
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\task56.AssemblyInfoInputs.cache
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\task56.AssemblyInfo.cs
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\task56.csproj.CoreCompileInputs.cache
+C:\Users\Mechetin\Documents\GB\C-\task56\bin\Debug\net7.0\task56.exe
+C:\Users\Mechetin\Documents\GB\C-\task56\bin\Debug\net7.0\task56.deps.json
+C:\Users\Mechetin\Documents\GB\C-\task56\bin\Debug\net7.0\task56.runtimeconfig.json
+C:\Users\Mechetin\Documents\GB\C-\task56\bin\Debug\net7.0\task56.dll
+C:\Users\Mechetin\Documents\GB\C-\task56\bin\Debug\net7.0\task56.pdb
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\task56.dll
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\refint\task56.dll
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\task56.pdb
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\task56.genruntimeconfig.cache
+C:\Users\Mechetin\Documents\GB\C-\task56\obj\Debug\net7.0\ref\task56.dll
